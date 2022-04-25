@@ -1,0 +1,16 @@
+﻿  Enemy.cpp
+  Game.cpp
+c:\users\petr\source\repos\game\game\game.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\petr\source\repos\game\game\game.cpp(19): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\petr\source\repos\game\game\game.cpp(20): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\petr\source\repos\game\game\game.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Game.vcxproj -> C:\Users\Petr\source\repos\Game\Debug\Game.exe

@@ -1,0 +1,26 @@
+﻿  Bullet.cpp
+  Enemy.cpp
+  Game.cpp
+c:\users\petr\source\repos\game\game\game.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\petr\source\repos\game\game\game.cpp(20): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\petr\source\repos\game\game\game.cpp(21): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\petr\source\repos\game\game\game.cpp(65): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\petr\source\repos\game\game\game.cpp(66): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Player.cpp
+sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: тип компьютера модуля "x86" противоречит типу целевого компьютера "x64"
